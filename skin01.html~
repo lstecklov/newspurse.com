@@ -64,8 +64,7 @@
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
 							<li><a class="home-nav active" href="#home">Home</a></li>
-							<li><a class="services-nav" href="#services">Services</a></li>
-							<li><a class="testimonials-nav" href="#testimonials">Testimonials</a></li>
+							<li><a class="services-nav" href="#process">The Process</a></li>
 							<li><a class="about-nav" href="#about">About</a></li>
 							<li><a class="contact-nav" href="#contact">Contact</a></li>
 						</ul>
@@ -176,18 +175,19 @@
 								<a class="green" href="#"><img alt="" src="images/coin-icon.png"></a>
 								<h2>Publishers</h2>
 								<h4>Enable new Content Value Opportunities</h4>
+								<p>Simple and clean integration for content publishers. Works with most existing subscriber software and maintains branding. Secure and safe PCI compliant payment systems.</p>
 							</div>
 							<div class="col-md-4 home-post">
-								<a class="red" href="#"><img alt="" src="images/icon2.png"></a>
+								<a class="red" href="#"><img alt="" src="images/choice.png"></a>
 								<h2>Consumers</h2>
 								<h4>Easy adoption and increased choice</h4>
-								<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum</p>
+								<p>User Experience designed to enhance brand loyalty and user retention. Low barrier to entry makes it easy for users to purchase and consume content. Better user retention keep eyeballs on your content and on your advertising</p>
 							</div>
 							<div class="col-md-4 home-post">
 								<a class="yellow" href="#"><img alt="" src="images/icon3.png"></a>
-								<h2>Enterprise Integration</h2>
-								<h4>integration enables access to new marketing opportunities
-								<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum</p>
+								<h2>Enterprise</h2>
+								<h4>Custom integration</h4>
+								<p>Integrating with our database leads to new users, provides new marketing and campaign possibilities</p>
 							</div>
 						</div>
 					</div>
@@ -197,182 +197,35 @@
 		<!-- End home -->
 
 
-		<!-- portfolio-section 
-			================================================== -->
-		<div class="section">
-			<div id="portfolio" class="bg-color">
-				<div class="container">
-					<div class="title-section">
-						<h1>Recent Projects</h1>
-						<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio</p>
-					</div>
-					<ul class="filter">
-						<li><a href="#" class="active" data-filter="*">All Categories</a></li>
-						<li><a href="#" data-filter=".web-design">Web Design</a></li>
-						<li><a href="#" data-filter=".photography">Photography</a></li>
-						<li><a href="#" data-filter=".nature">Nature</a></li>
-						<li><a href="#" data-filter=".logo">Logo</a></li>
-						<li><a href="#" data-filter=".brochures">Brochures</a></li>
-						<li><a href="#" data-filter=".business-card">Business Card</a></li>
-					</ul>
-
-					<div class="projects-container">
-						<div class="project-post web-design nature logo">
-							<img alt="" src="upload/1.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-						<div class="project-post nature photography business-card">
-							<img alt="" src="upload/2.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>						
-							</div>
-						</div>
-						<div class="project-post web-design photography">
-							<img alt="" src="upload/3.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-						<div class="project-post logo brochures business-card">
-							<img alt="" src="upload/4.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-						<div class="project-post photography logo business-card">
-							<img alt="" src="upload/5.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-						<div class="project-post web-design nature">
-							<img alt="" src="upload/6.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-						<div class="project-post web-design logo">
-							<img alt="" src="upload/7.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-						<div class="project-post photography brochures">
-							<img alt="" src="upload/8.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-						<div class="project-post web-design nature business-card">
-							<img alt="" src="upload/9.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-						<div class="project-post web-design photography">
-							<img alt="" src="upload/10.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-						<div class="project-post logo brochures business-card">
-							<img alt="" src="upload/11.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-						<div class="project-post brochures business-card">
-							<img alt="" src="upload/12.jpg">
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Useful Seo Icons</h3>
-									<span>flat icons</span>
-									<a class="link-project" href="#first-popup">view project</a>								
-								</div>							
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>			
-		</div>
-		<!-- End portfolio -->
-
-
 		<!-- services-section 
 			================================================== -->
 		<div class="section">
-			<div id="services">
+			<div id="process" class="bg-color">
 				<div class="container">
 					<div class="title-section">
-						<h1>Our Services</h1>
-						<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio</p>
+						<h1>The Process</h1>
+						<p>Consumer purchasing patterns differ in the digital age, presenting new challenges to content publishers.  Newspurse enables digital media publishers such as newspapers, magazines and multimedia to succeed in the digital marketplace by tapping new revenue paths and marketing opportunities.</p>
 					</div>
 					<ul class="cbp-ig-grid">
 						<li>
 							<a href="#">
 								<span class="cbp-ig-icon cbp-ig-icon-cloud"></span>
-								<h3 class="cbp-ig-title">Cloud Server</h3>
+								<h3 class="cbp-ig-title">Inject our Code</h3>
 							</a>
 						</li>
 						<li>
 							<a href="#">
 								<span class="cbp-ig-icon cbp-ig-icon-lovely"></span>
-								<h3 class="cbp-ig-title">Lovely Design</h3>
+								<h3 class="cbp-ig-title">Configure Pricing and Usage Model</h3>
 							</a>
 						</li>
 						<li>
 							<a href="#">
 								<span class="cbp-ig-icon cbp-ig-icon-support"></span>
-								<h3 class="cbp-ig-title">24/7 Support</h3>
+								<h3 class="cbp-ig-title">Collect New Users and Revenue</h3>
 							</a>
 						</li>
-						<li>
+					<!-- 	<li>
 							<a href="#">
 								<span class="cbp-ig-icon cbp-ig-icon-form"></span>
 								<h3 class="cbp-ig-title">Working Form</h3>
@@ -390,46 +243,27 @@
 								<h3 class="cbp-ig-title">Easy Customizable</h3>
 							</a>
 						</li>
+					-->
 					</ul>
 				</div>
 			</div>			
 		</div>
 		<!-- End services -->
 
-		<!-- testimonials-section 
-			================================================== -->
+		<!-- testimonials-section  
+			================================================== --> 
 		<div class="section">
 			<div id="testimonials" class="bg-color">
 				<div class="container">
 					<div class="title-section">
-						<h1>Client Testimonials</h1>
+						<a href="#contact"><h1>Contact us to request a demo</h1></a>
 					</div>
 
 					<ul class="bxslider">
-						<li>
-							<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate </p>
-							<img alt="" src="images/image1.png">
-							<span>Happy Client</span>
-						</li>
-						<li>
-							<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-							<img alt="" src="images/image2.png">
-							<span>Happy Client2</span>
-						</li>
-						<li>
-							<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate </p>
-							<img alt="" src="images/image1.png">
-							<span>Happy Client3</span>
-						</li>
-						<li>
-							<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-							<img alt="" src="images/image2.png">
-							<span>Happy Client4</span>
-						</li>
-					</ul>
+					</ul
 				</div>
 			</div>
-		</div>
+		</div> 
 		<!-- End testimonials -->
 
 		<!-- about-section 
@@ -439,71 +273,16 @@
 				<div class="container">
 					<div class="title-section">
 						<h1>About Us</h1>
-						<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio</p>
+						<p>NewsPurse is a Toronto based firm enabling digital content value opportunities. As a partner, we use our technology expertise to enable both enterprise and small media sites achieve success in the digital marketplace.</p>
 					</div>
 					<div class="row team">
-						<div class="col-md-3">
-							<div class="team-member">
-								<img alt="" src="images/team-member1.png">
-								<div class="team-cont">
-									<h3>Mat Johnson</h3>
-									<span>Back End</span>
-									<ul class="social">
-										<li><a class="fb" href="#"></a></li>
-										<li><a class="twi" href="#"></a></li>
-										<li><a class="drib" href="#"></a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-3">
-							<div class="team-member">
-								<img alt="" src="images/team-member2.png">
-								<div class="team-cont">
-									<h3>John Smith</h3>
-									<span>Back End</span>
-									<ul class="social">
-										<li><a class="fb" href="#"></a></li>
-										<li><a class="twi" href="#"></a></li>
-										<li><a class="drib" href="#"></a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-3">
-							<div class="team-member">
-								<img alt="" src="images/team-member3.png">
-								<div class="team-cont">
-								<h3>John Smith</h3>
-									<span>Designer</span>
-									<ul class="social">
-										<li><a class="fb" href="#"></a></li>
-										<li><a class="twi" href="#"></a></li>
-										<li><a class="drib" href="#"></a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-3">
-							<div class="team-member">
-								<img alt="" src="images/team-member4.png">
-								<div class="team-cont">
-									<h3>Bob Roys</h3>
-									<span>Menager</span>
-									<ul class="social">
-										<li><a class="fb" href="#"></a></li>
-										<li><a class="twi" href="#"></a></li>
-										<li><a class="drib" href="#"></a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</div>
 
 					<div class="row who-we-are">
 						<div class="col-md-6">
 							<h2>Who We are</h2>
-							<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh </p>
+							<p>
+							NewsPurse was formed by Lee Stecklov in 2013. Our vision is to enable journalism and creativity to prosper in the digital marketplace. Research has shown that consumers are willing to pay for quality news and features, but the dynamics of the marketplace have shifted and have been disrupted to the point where many news and periodical publishers are facing shrinking revenues. 
+							</p>
 							<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. </p>
 						</div>
 
@@ -543,18 +322,17 @@
 				<div class="container">
 					<div class="title-section">
 						<h1>Get in Touch</h1>
-						<p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio</p>
+						<p>Give a call, send an email</p>
 					</div>
 				</div>
-				<div class="map"></div>
 				<div class="container">
 					<div class="row contact-info">
 						<div class="col-md-6">
 							<h2>Contact Info</h2>
 							<ul>
-								<li><span class="label address">address:</span> <span class="label-information">PO Box 16122 Collins Street West Victoria 8007 Australia</span></li>
-								<li><span class="label phone">Phone:</span> <span class="label-information">(900) 1234 5678 900</span></li>
-								<li><span class="label e-mail">e-Mail:</span> <span class="label-information">youremail@yourdomain.com</span></li>
+								<!-- <li><span class="label address">address:</span> <span class="label-information">PO Box 16122 Collins Street West Victoria 8007 Australia</span></li> -->
+								<li><span class="label phone">Phone:</span> <span class="label-information">1-647-822-1553</span></li>
+								<li><span class="label e-mail">e-Mail:</span> <span class="label-information">info@newspurse.com</span></li>
 							</ul>
 						</div>
 						<div class="col-md-6">
@@ -588,15 +366,16 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-7">
-							<p>&copy; 2013 Flatible PSD Template</p>
+							<p>&copy; 2014 NewsPurse.com </p>
 						</div>
 						<div class="col-md-5">
 							<ul class="social-icons">
+								<li>Follow us at NewsOnaDime  <a class="twitter" href="https://twitter.com/newsonadime"></a></li>
+								<!--
 								<li><a class="facebook" href="#"></a></li>
 								<li><a class="rss" href="#"></a></li>
 								<li><a class="youtube" href="#"></a></li>
-								<li><a class="twitter" href="#"></a></li>
-								<li><a class="google" href="#"></a></li>
+								<li><a class="google" href="#"></a></li> -->
 							</ul>
 						</div>
 					</div>
@@ -625,11 +404,8 @@
 				</ul>
 			</div>
 			<h2>Useful Seo Icons</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur.</p>
+			<p>
+			.</p>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			quis nostrud exercitation ullamco laboris nisi</p>

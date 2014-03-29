@@ -461,6 +461,7 @@ ul.filter li a.active {
     list-style: none;
     padding: 45px 0 45px 0;
     margin: 0;
+    
 }
  
 /* Clear floats */
@@ -524,7 +525,7 @@ ul.filter li a.active {
 }
 
 .cbp-ig-icon-cloud {
-    background: url(../images/services1.png) center center no-repeat;
+    background: url(../images/)jacascript-icon.png center center no-repeat;
 }
 
 .cbp-ig-icon-lovely {
@@ -547,16 +548,16 @@ ul.filter li a.active {
     background: url(../images/services6.png) center center no-repeat;
 }
 
-.cbp-ig-grid a:hover .cbp-ig-icon-cloud {
-    background: url(../images/services1-active.png) center center no-repeat;
+.cbp-ig-grid  .cbp-ig-icon-cloud {
+    background: url(../images/jacascript-icon-active.png) center center no-repeat;
 }
 
-.cbp-ig-grid a:hover .cbp-ig-icon-lovely {
-    background: url(../images/services2-active.png) center center no-repeat;
+.cbp-ig-grid .cbp-ig-icon-lovely {
+    background: url(../images/eye-icon-active.png) center center no-repeat;
 }
 
-.cbp-ig-grid a:hover .cbp-ig-icon-support {
-    background: url(../images/services3-active.png) center center no-repeat;
+.cbp-ig-grid .cbp-ig-icon-support {
+    background: url(../images/revenue-icon-active.png) center center no-repeat;
 }
 
 .cbp-ig-grid a:hover .cbp-ig-icon-form {
@@ -572,6 +573,7 @@ ul.filter li a.active {
 }
  
 /* title element */
+/*
 .cbp-ig-grid .cbp-ig-title {
     margin: 0px 0 10px 0;
     padding: 10px 0 0 0;
@@ -591,10 +593,10 @@ ul.filter li a.active {
     top: 0px;
     left: 50%;
     margin: -20px 0 0 -40px;
-    -webkit-transition: margin-top 0.2s; /* top or translate does not seem to work in Firefox */
-    -moz-transition: margin-top 0.2s;
+    -webkit-transition: margin-top 0.2s;() *//* top or translate does not seem to work in Firefox */
+/*    -moz-transition: margin-top 0.2s;
     transition: margin-top 0.2s;
-}
+}*/
  
 .cbp-ig-grid .cbp-ig-category {
     text-transform: uppercase;
@@ -612,7 +614,7 @@ ul.filter li a.active {
     -webkit-transition: transform 0.3s, opacity 0.2s;
 }
  
-.cbp-ig-grid li:hover .cbp-ig-category,
+.cbp-ig-grid /*li:hover*/ .cbp-ig-category,
 .touch .cbp-ig-grid li .cbp-ig-category {
     opacity: 1;
     -webkit-transform: translateY(0px);
@@ -637,6 +639,8 @@ ul.filter li a.active {
 .cbp-ig-grid li > a:hover .cbp-ig-icon:before,
 .cbp-ig-grid li > a:hover .cbp-ig-title {
     color: #fff;
+}
+
 }
  
 .cbp-ig-grid li > a:hover .cbp-ig-title {
