@@ -150,7 +150,7 @@
 /*-------------------------------------------------*/
 
 p {
-    color: #b9b9b9;
+    color: #6B6B6B;
     font-size: 17px;
     font-family: 'Open Sans', sans-serif;
     line-height: 28px;
@@ -837,7 +837,7 @@ ul.social li a:hover {
 
 .progres-bar .inner-progress span {
     color: #fff;
-    font-size: 13px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -889,8 +889,8 @@ ul.social li a:hover {
     -o-border-radius: 0px;
 }
 
-.contact-info ul li span.label.address {
-    background: url('../images/address.png') 13px center no-repeat;
+.contact-info ul li span.label.twitter {
+    background: url('../images/twitter-icon.png') 13px center no-repeat;
 }
 
 .contact-info ul li span.label.phone {

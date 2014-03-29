@@ -59,7 +59,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#"><img alt="" src="images/logo.png"></a>
+						<a class="navbar-brand" href="#"><img alt="" src="images/logoNP.png"></a>
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
@@ -273,7 +273,7 @@
 				<div class="container">
 					<div class="title-section">
 						<h1>About Us</h1>
-						<p>NewsPurse is a Toronto based firm enabling digital content value opportunities. As a partner, we use our technology expertise to enable both enterprise and small media sites achieve success in the digital marketplace.</p>
+						<p>NewsPurse is a technology partner to digital media organizations. We bring revenue and marketing opportunities to digital content providers through our digital pass.</p> 
 					</div>
 					<div class="row team">
 
@@ -281,31 +281,31 @@
 						<div class="col-md-6">
 							<h2>Who We are</h2>
 							<p>
-							NewsPurse was formed by Lee Stecklov in 2013. Our vision is to enable journalism and creativity to prosper in the digital marketplace. Research has shown that consumers are willing to pay for quality news and features, but the dynamics of the marketplace have shifted and have been disrupted to the point where many news and periodical publishers are facing shrinking revenues. 
+							Our vision is to enable journalism and creativity to prosper in the digital marketplace. Research shows that consumers are willing to pay for quality news, features and content, but the dynamics of the marketplace are shifting and disrupting traditional revenue sources. As consumption shifts from print to digital, consumption patterns are changing as well. NewsPurse was founded in 2013 to address this change. Our digital pass works across multiple providers giving publishers new revenue opportunities and consumers choice. 
 							</p>
-							<p>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. </p>
+							<p></p>
 						</div>
 
 						<div class="col-md-6">
-							<h2>Our Skills</h2>
+							<h2>What We Have</h2>
 							<div class="progres-bar">
 								<div class="inner-progress photoshop">
-									<span>Photoshop</span>
+									<span>Leading Edge Technology Platform</span>
 								</div>
 							</div>
 							<div class="progres-bar">
 								<div class="inner-progress html">
-									<span>HTML</span>
+									<span>Unparalled Customer Service</span>
 								</div>
 							</div>
 							<div class="progres-bar">
 								<div class="inner-progress php">
-									<span>PHP</span>
+									<span>Creative Vision</span>
 								</div>
 							</div>
 							<div class="progres-bar">
 								<div class="inner-progress ruby">
-									<span>Ruby on Rails</span>
+									<span>Winning Team with Drive to Succeed</span>
 								</div>
 							</div>
 						</div>
@@ -333,11 +333,12 @@
 								<!-- <li><span class="label address">address:</span> <span class="label-information">PO Box 16122 Collins Street West Victoria 8007 Australia</span></li> -->
 								<li><span class="label phone">Phone:</span> <span class="label-information">1-647-822-1553</span></li>
 								<li><span class="label e-mail">e-Mail:</span> <span class="label-information">info@newspurse.com</span></li>
+								<li><span class="label twitter">Twitter:</span> <span class="label-information">https://twitter.com/newsonadime</span></li>
 							</ul>
 						</div>
 						<div class="col-md-6">
 							<h2>Send us a message</h2>
-							<form id="contact-form">
+							<form id="contact-form" action="contact.php" method="post" >
 								<div class="row">
 									<div class="col-md-6">
 										<input name="name" id="name" type="text" placeholder="name">
@@ -370,7 +371,7 @@
 						</div>
 						<div class="col-md-5">
 							<ul class="social-icons">
-								<li>Follow us at NewsOnaDime  <a class="twitter" href="https://twitter.com/newsonadime"></a></li>
+								<li><a class="twitter" href="https://twitter.com/newsonadime"></a></li>
 								<!--
 								<li><a class="facebook" href="#"></a></li>
 								<li><a class="rss" href="#"></a></li>
